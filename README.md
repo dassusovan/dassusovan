@@ -11,4 +11,6 @@ You can click the Preview link to take a look at your changes.
 --->
 #  Hey There <img src="https://github.com/dassusovan/dassusovan/blob/main/Assets/Hi.gif" width="29px"> I'm [Susovan](https://www.linkedin.com/in/susovan-das-851158103/) !!
 
-# Technologies
+## Tools & Technologies :computer:
+<code><img height="60" src="https://github.com/dassusovan/dassusovan/blob/main/Assets/java-coffee-cup-logo.png"></code>
+<code><img height="60" src="https://github.com/dassusovan/dassusovan/blob/main/Assets/selenium-test-automation.png"></code>
