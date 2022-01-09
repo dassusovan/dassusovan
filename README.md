@@ -14,6 +14,7 @@ You can click the Preview link to take a look at your changes.
 - API Automation
 - Load Testing 
 - Database Testing (Mainframe, Oracle & MySql)
+- CI/CD pipeline 
 
 ## Connect with me<img src="https://github.com/dassusovan/dassusovan/blob/main/Assets/Handshake.gif" height="32px">
 
