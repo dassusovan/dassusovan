@@ -15,6 +15,9 @@ You can click the Preview link to take a look at your changes.
   <img align="left" width="26px" src="https://github.com/dassusovan/dassusovan/blob/main/Assets/Gmail.svg"/>
 </a>
 
+<br />
+<br />
+
 ## Tools & Technologies :computer:
 <code><img height="40" src="https://github.com/dassusovan/dassusovan/blob/main/Assets/java-coffee-cup-logo.png"></code>
 <code><img height="40" src="https://github.com/dassusovan/dassusovan/blob/main/Assets/selenium-test-automation.png"></code>
