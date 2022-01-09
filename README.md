@@ -26,6 +26,11 @@ You can click the Preview link to take a look at your changes.
 ## Tools & Technologies :computer:
 <code><img height="40" src="https://github.com/dassusovan/dassusovan/blob/main/Assets/java-coffee-cup-logo.png"></code>
 <code><img height="40" src="https://github.com/dassusovan/dassusovan/blob/main/Assets/selenium-test-automation.png"></code>
+<code><img height="40" src="https://github.com/dassusovan/dassusovan/blob/main/Assets/GithubActionsLogo.png"></code>
+<code><img height="40" src="https://github.com/dassusovan/dassusovan/blob/main/Assets/jmeter.svg"></code>
+<code><img height="40" src="https://github.com/dassusovan/dassusovan/blob/main/Assets/k6.svg"></code>
+<code><img height="40" src="https://github.com/dassusovan/dassusovan/blob/main/Assets/cucumber.png"></code>
+<!-- <code><img height="40" src=""></code> -->
 
 ## My Latest Blog Posts 🌱
 - [How to run K6 load testing using Github action](https://community.lambdatest.com/t/how-to-run-k6-load-testing-using-github-action/6210)
