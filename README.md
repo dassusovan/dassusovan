@@ -37,3 +37,6 @@ You can click the Preview link to take a look at your changes.
 ## My Latest Blog Posts 🌱
 - [How to run K6 load testing using Github action](https://community.lambdatest.com/t/how-to-run-k6-load-testing-using-github-action/6210)
 - [How to Use TestNG Metric Report](https://community.lambdatest.com/t/how-to-use-testng-metric-report/6194)
+
+
+[Susovan Das' GitHub Stats](https://github-readme-stats.vercel.app/api?username=dassusovan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
