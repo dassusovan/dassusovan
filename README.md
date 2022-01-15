@@ -39,9 +39,9 @@ You can click the Preview link to take a look at your changes.
 - [How to Use TestNG Metric Report](https://community.lambdatest.com/t/how-to-use-testng-metric-report/6194)
 
 ## 
-<p align="center">
+<p>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=dassusovan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="318"/> -->
 <img src="https://github-readme-stats.vercel.app/api?username=dassusovan&show_icons=true&theme=onedark" width="318"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dassusovan&theme=radical&hide_border=true" width="318"/>
-<img src="" width="318"/>
+<!-- <img src="" width="318"/> -->
 </p>
