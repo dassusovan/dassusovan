@@ -9,14 +9,15 @@
 dassusovan/dassusovan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-##  Hey There <img src="https://github.com/dassusovan/dassusovan/blob/main/Assets/Hi.gif" height="32px"> I'm [Susovan Das](https://www.linkedin.com/in/susovan-das-851158103/) !!
+##  Hey There <img src="https://github.com/dassusovan/dassusovan/blob/main/Assets/Hi.gif" height="32px"> 
+I'm [Susovan Das](https://www.linkedin.com/in/susovan-das-851158103/) !!
 - Web Automation
 - API Automation
 - Load Testing 
 - Database Testing (Mainframe, Oracle & MySql)
 - CI/CD pipeline 
 
-## Connect with me<img src="https://github.com/dassusovan/dassusovan/blob/main/Assets/Handshake.gif" height="32px">
+## Connect with me <img src="https://github.com/dassusovan/dassusovan/blob/main/Assets/Handshake.gif" height="32px">
 
 <a href="mailto:dassusovan3@gmail.com">
   <img align="left" width="26px" src="https://github.com/dassusovan/dassusovan/blob/main/Assets/Gmail.svg"/>
