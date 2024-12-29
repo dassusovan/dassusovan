@@ -33,7 +33,7 @@ I'm [Susovan Das](https://www.linkedin.com/in/susovan-das-851158103/) !!
 <code><img height="40" src="https://github.com/dassusovan/dassusovan/blob/main/Assets/k6.svg"></code>
 <code><img height="40" src="https://github.com/dassusovan/dassusovan/blob/main/Assets/cucumber.png"></code>
 <code><img height="40" src="https://github.com/dassusovan/dassusovan/blob/main/Assets/karate.PNG"></code>
-<code><img height="40" src="https://github.com/dassusovan/dassusovan/blob/main/Assets/cypress.PNG"></code>
+<code><img height="40" src="https://github.com/dassusovan/dassusovan/blob/main/Assets/cypress.png"></code>
 <!-- <code><img height="40" src=""></code> -->
 
 ## My Latest Blog Posts 🌱
